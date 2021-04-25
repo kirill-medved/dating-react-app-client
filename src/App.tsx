@@ -10,11 +10,9 @@ function App() {
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className='app-wrapper'>
         <Header />
-        <div className='content-wrapper'>
-          <Route path='/profile/:userID?' render={() => <ProfileContainer />} />
-          {/* <Route path='/dialogs' render={() => <DialogsContainer />} />*/}
-          <Route path='/login' render={() => <Login />} />
-        </div>
+        <Route path='/profile/:userID?' render={() => <ProfileContainer />} />
+        {/* <Route path='/dialogs' render={() => <DialogsContainer />} />*/}
+        <Route path='/login' render={() => <Login />} />
       </div>
     </BrowserRouter>
   );
