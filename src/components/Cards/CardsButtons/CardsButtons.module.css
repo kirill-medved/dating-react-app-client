@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  bottom: 10vh;
+  width: 100%;
+}
+
+.wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.iconButton {
+  background-color: white;
+  box-shadow: 0 10px 43px 0 rgba(0, 0, 0, 0.3) !important;
+}
