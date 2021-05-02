@@ -1,8 +1,8 @@
 import React from 'react';
-import header from './Header.module.css';
 import PersonIcon from '@material-ui/icons/Person';
 import MessageIcon from '@material-ui/icons/Message';
 import IconButton from '@material-ui/core/IconButton';
+import header from './Header.module.css';
 
 const Header: React.FC = () => {
   return (
