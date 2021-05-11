@@ -1,0 +1,21 @@
+.wrapper {
+  background-image: url('https://images.pexels.com/photos/4306943/pexels-photo-4306943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.form_wrapper {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px 30px;
+}
+
+.signIn {
+  display: flex;
+  justify-content: center;
+}
