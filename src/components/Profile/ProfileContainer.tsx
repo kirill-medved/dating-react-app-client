@@ -21,12 +21,12 @@ const db: IUser[] = [
   },
   {
     id: 2,
-    name: 'Kirill222',
+    name: 'Nasya',
     photos: [
       'https://bigpicture.ru/wp-content/uploads/2019/10/1564493406756-belle-delphine-tik.jpg',
     ],
     sex: 'male',
-    title: "Heeeeeeeloo I'm title",
+    title: 'Общительная, люблю гулять.',
     city: 'Homel',
     like: null,
     likeMe: null,
@@ -34,13 +34,13 @@ const db: IUser[] = [
   },
   {
     id: 3,
-    name: 'Kirill333',
+    name: 'Kate',
     photos: [
       'https://cdn11.bigcommerce.com/s-1js1zluvaj/images/stencil/1280x1280/products/3982/21673/Obrix-Denim-Female-Casual-Style-Coat-Spring-Cotton-Korean-fashion-Streetwear-Loose-Polo-Collar-Full-Sleeve__60195.1562825471.jpg?c=2',
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NNUm7tCGleLMd_Q_nIZJrzSZBvs_Ac0OtA&usqp=CAU',
     ],
     sex: 'male',
-    title: "Heeeeeeeloo I'm title",
+    title: 'Люблю кушать!',
     city: 'Homel',
     like: null,
     likeMe: null,
@@ -48,13 +48,13 @@ const db: IUser[] = [
   },
   {
     id: 4,
-    name: 'Kirill444',
+    name: 'Nastya',
     photos: [
       'https://pickytop.com/wp-content/uploads/2020/03/Margot-Robbie.jpg',
       'https://pickytop.com/wp-content/uploads/2020/03/Margot-Robbie.jpg',
     ],
     sex: 'female',
-    title: "Heeeeeeeloo I'm title",
+    title: 'Общительная, люблю гулять.',
     city: 'Homel',
     like: null,
     likeMe: null,
