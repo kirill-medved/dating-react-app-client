@@ -23,7 +23,6 @@ function App() {
           );
         }}
       />
-
       {/* <Route path='/dialogs' render={() => <DialogsContainer />} /> */}
     </BrowserRouter>
   );
